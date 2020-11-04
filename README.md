@@ -1,5 +1,8 @@
 # FlycoTabLayout
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FlycoTabLayout-green.svg?style=true)](https://android-arsenal.com/details/1/2756)
+
+[![](https://jitpack.io/v/RookieExaminer/FlycoTabLayout.svg)](https://jitpack.io/#RookieExaminer/FlycoTabLayout)
+
+
 #### [中文版](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)
 An Android TabLayout Lib has 3 kinds of TabLayout at present.
 
