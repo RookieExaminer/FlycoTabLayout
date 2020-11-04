@@ -2,7 +2,17 @@
 
 [![](https://jitpack.io/v/RookieExaminer/FlycoTabLayout.svg)](https://jitpack.io/#RookieExaminer/FlycoTabLayout)
 
-
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+    dependencies {
+	        implementation 'com.github.RookieExaminer:FlycoTabLayout:Tag'
+	}
+   
+   
 #### [中文版](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)
 An Android TabLayout Lib has 3 kinds of TabLayout at present.
 
